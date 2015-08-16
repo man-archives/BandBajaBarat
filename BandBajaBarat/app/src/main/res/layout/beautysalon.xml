@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+    android:background="@drawable/bg3">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10sp"
+        android:layout_height="50sp"
+        android:textColor="#EFC2AF"
+        android:text="Beauty Salon"
+        android:textSize="30sp"
+        android:background="#54efc2af"
+        android:gravity="center"/>
+
+    <Button
+        android:layout_width="200sp"
+        android:layout_marginTop="30sp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:background="#38efc2af"
+        android:textAllCaps="false"
+        android:textColor="#EFC2AF"
+        android:text="Services"
+        />
+
+    <Button
+        android:layout_width="200sp"
+        android:layout_marginTop="10sp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:background="#38efc2af"
+        android:textAllCaps="false"
+        android:textColor="#EFC2AF"
+        android:text="Offers"
+        />
+
+    <Button
+        android:layout_width="200sp"
+        android:layout_marginTop="10sp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:background="#38efc2af"
+        android:textAllCaps="false"
+        android:textColor="#EFC2AF"
+        android:text="Book an Appointment"
+        />
+
+    <Button
+        android:layout_width="200sp"
+        android:layout_marginTop="10sp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:background="#38efc2af"
+        android:textAllCaps="false"
+        android:textColor="#EFC2AF"
+        android:text="About us"
+        />
+
+    <Button
+        android:layout_width="200sp"
+        android:layout_marginTop="10sp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:background="#38efc2af"
+        android:textAllCaps="false"
+        android:textColor="#EFC2AF"
+        android:text="Contact us"
+        />
+
+    <Button
+        android:layout_width="200sp"
+        android:layout_marginTop="10sp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:background="#38efc2af"
+        android:textAllCaps="false"
+        android:textColor="#EFC2AF"
+        android:text="Share and rate"
+        />
+
+</LinearLayout>
